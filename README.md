@@ -32,15 +32,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
 </p>
 
----
-
-## 🚀 پروژه‌های من
-- 🔹 [Online Shop](#)  
-- 🔹 [React Admin Panel](#)  
-- 🔹 [shopping-store]https://github.com/behnam13656/shopping-store.git
-
----
-
+-
 ## 🌐 پیدا کردن من
 <p align="center">
   <a href="https://github.com/USERNAME">
